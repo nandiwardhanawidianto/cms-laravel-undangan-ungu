@@ -1,0 +1,58 @@
+ini ada beberapa controlller dan modelnya seperti dibawah ini
+nah ini alurnya kita
+index -> buat slug baru -> edit slug baru *3 ini sudah tercapai ya setelah edit itu baru kita masuk ke page baru edit untuk form list dibawah ini
+jadi formnya terdiri dari beberapa controller dan model tapi aku ingin tetap 1 view ya jadi panjang ke bawah nanti formnya walaupun banyak controller
+
+ gini buat controller hero&invitation 
+1. Nama panggilan Pria
+Nama lengkap Pria
+Foto mempelai Pria
+2. Orang Tua Pria
+3. Nama PAnggilan Perempuan
+Nama Lengkap Perempuan
+Foto mempelai Perempuan
+4. orang Tua Perempuan
+
+controller  Acara
+Nama Acara 1 - Wajib
+Tanggal Acara 1 // berupa date  Wajib
+pukul acara // berupa text Wajib 
+Alamat Acara 1 WAjib
+Link Acara 1 Wajib
+
+Nama Acara 2 - opsional
+Tanggal Acara 2 // berupa date  opsional
+pukul acara // berupa text opsional 
+Alamat Acara 2 opsional
+Link Acara 2 opsional
+
+Nama Acara 3 - opsional
+Tanggal Acara 3 // berupa date  opsional
+pukul acara // berupa text opsional 
+Alamat Acara 3 opsional
+Link Acara 3 opsional
+
+controller Counting
+Surat bahasa arab opsional
+deskripsi surat bahasa indonesia
+Nama Surat
+
+controller Galeri 
+upload carouselatas 1-5 gambar
+UPload carouselbawah 1-5 gambar
+
+controller LoveGift 
+Nama bank 1 Wajib
+No rek bank 1 Wajib
+Nama pemilik Bannk 1 Wajib
+
+Nama bank 2 opsional
+No rek bank 2 opsional
+Nama pemilik Bannk 2 opsional
+
+Nama bank 3 opsional
+No rek bank 3 opsional
+Nama pemilik Bannk 3 opsional
+
+
+
